@@ -1,0 +1,5 @@
+{
+//    "cortex-debug.showRTOS": true
+    "cortex-debug.JLinkGDBServerPath": "D:\\Program Files\\SEGGER\\JLink",
+    "cortex-debug.showRTOS": true
+}
